@@ -331,8 +331,17 @@ git push -u origin master
 git add .
 git commit -m “new blog added”
 git push -u origin master
-</code></pre><h3 id="更新博客">更新博客</h3>
-
+</code></pre><h3 id="更新博客">更新博客：</h3>
+<p>更新博客内容</p>
+<p>-在站点主目录生成静态页面</p>
+<p>hugo –theme=blackburn –-buildDrafts -–baseUrl=“https://aiken-zhang.github.io/</p>
+<p>发布</p>
+<pre><code>cd public
+git add .
+git commit -m “new blog added”
+git push -f
+git push -u origin master
+</code></pre>
   
   <h4><i class="fa-share-alt" aria-hidden="true"></i>&nbsp;Share!</h4>
 <ul class="share-buttons">
