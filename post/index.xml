@@ -26,14 +26,5 @@
       <description>###java垃圾回收机制 JVM内存模型总结 JVM结构概念图 1、程序计数器（Program Counter Register） 是一块较小的内存空间，它可以看</description>
     </item>
     
-    <item>
-      <title>深入理解JVM（学习笔记）</title>
-      <link>https://aiken-zhang.github.io/post/jvm/</link>
-      <pubDate>Sat, 07 Nov 2020 18:33:54 +0800</pubDate>
-      
-      <guid>https://aiken-zhang.github.io/post/jvm/</guid>
-      <description>##一、java虚拟机（JVM） ###1、jvm的生命周期 基本上学习一种容器（更具体的说我们在学习servlet的时候），我们都要学习它的生</description>
-    </item>
-    
   </channel>
 </rss>
