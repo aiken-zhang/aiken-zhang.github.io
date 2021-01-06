@@ -23,7 +23,7 @@
       <pubDate>Wed, 11 Nov 2020 23:06:25 +0800</pubDate>
       
       <guid>https://aiken-zhang.github.io/post/jvmgc/</guid>
-      <description>1、什么是垃圾（Garbage） 没有任何引用指向的一个或者多个对象（这里指对象间的循环引用） 2、定位垃圾 （1）引用计数算法（referenc</description>
+      <description>###java垃圾回收机制 JVM内存模型总结 JVM结构概念图 1、程序计数器（Program Counter Register） 是一块较小的内存空间，它可以看</description>
     </item>
     
     <item>
